@@ -9,11 +9,11 @@ const Jumbotron = () => {
         <div className="m-5">
             This is the shop where you can find every weapon & accsessories you need, from a simple Zenitco to a F***N RailGun, 
             all depends of the money you can afford. Are you a simple customer or are you the governament? Don't care about, if you 
-            wanna buy weapons just look around or click the buton <b>"GET START"</b>
+            wanna see a demostration just click the buton <b>"GET START"</b>
         </div>
 
         <div>
-            <button className="btn btn-dark"><span className="display-6">GET START</span></button>
+            <a href="https://www.youtube.com/@RUSHEL999/videos" className="btn btn-dark"><span className="display-6">GET START</span></a>
         </div>
 
     </div>
