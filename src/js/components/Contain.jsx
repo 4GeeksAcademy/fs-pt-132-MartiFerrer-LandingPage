@@ -1,11 +1,16 @@
 import Jumbotron from "./Jumbotron";
+import Cards from "./Cards";
+
 
 const Contain = () => {
     return (
-    <Jumbotron/>
-        
+        <>
+            <Jumbotron/>
+            <Cards/>
+        </>
     );
 };
+
 
 
 export default Contain

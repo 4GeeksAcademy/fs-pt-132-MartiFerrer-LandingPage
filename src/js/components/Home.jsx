@@ -16,7 +16,7 @@ const Home = () => {
 			<Navbar/>
 
 			<Contain/>
-
+			
 			<Footer/>
 
 		</div>
